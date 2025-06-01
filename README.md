@@ -1,7 +1,8 @@
 # 🔢 Math Warriors Prototype [Tentative Name!]
 
 **Math Warriors** is a 2D turn-based strategy MOBILE game (BEED Thesis Project) in which players solve order‐of‐operations math problems (MDAS/PEMDAS) to progress through levels.  
-*Please note: This is an early prototype—only screenshots are available, and the game is not yet playable. To playtest or review the build, please contact me, the developer directly.*
+
+> *Please note: This is an early prototype—only screenshots are available, and the game is not yet playable. Playtesting is not available as of the moment.*
 
 ![MWCover](Level_2_MW_2.png)
 
